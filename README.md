@@ -2,13 +2,13 @@
 data commincatin mini project
 
 
-#Introduction
+# Introduction
 
 Hamming code is a set of error-correction codes that can be used to detect and correct the errors that can occur when the data is moved or stored from the sender to the receiver.
 It is technique developed by R.W. Hamming for error correction. 
 
 
-#Redundant bits –
+# Redundant bits –
 
 Redundant bits are extra binary bits that are generated and added to the information-carrying bits of data transfer to ensure that no bits were lost during the data transfer.
 The number of redundant bits can be calculated using the following formula:
@@ -17,7 +17,7 @@ The number of redundant bits can be calculated using the following formula:
  where, r = redundant bit, m = data bit
 
 
-#Minimum Distance for Error Detection
+# Minimum Distance for Error Detection
 
 • Now let us find the minimum Hamming distance in a
 code if we want to be able to detect up to s errors.
@@ -42,7 +42,7 @@ in some special cases, only s or fewer errors are
 guaranteed to be detected.
 
 
-#How to Run?
+# How to Run?
 
 step 1:open terminal on the directory 
 
@@ -60,7 +60,7 @@ subscribe phy
 
 
 
-#Terminologies
+# Terminologies
 
 hCode.groovy--Compelete FEC using Hamming code using groovy 
 
